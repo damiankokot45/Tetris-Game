@@ -11,3 +11,9 @@
   width: 20px;
   background-color: brown;
 }
+
+/*Elementy*/
+
+.tetromino {
+  background-color: blue;
+}
